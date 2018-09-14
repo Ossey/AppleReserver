@@ -7,7 +7,7 @@
 //
 
 import Cocoa
-import Alamofire
+//import Alamofire
 
 class MainViewController: NSViewController {
     @IBOutlet weak var storeTableView: NSTableView!
@@ -21,7 +21,7 @@ class MainViewController: NSViewController {
     fileprivate var stores: [Store]?
     fileprivate var availabilities: [Availability]? {
         didSet {
-            guard let availabilities = self.availabilities, self.notificationButton.state == NSOnState else {
+            guard let availabilities = self.availabilities, self.notificationButton.state == .on else {
                 return
             }
             for selectedPartNumber in self.selectedPartNumbers {
@@ -66,7 +66,7 @@ class MainViewController: NSViewController {
     }
 
     func loadStores() {
-        Alamofire.request(AppleURL.stores).responseJSON { (response) in
+        request(AppleURL.stores).responseJSON { (response) in
             if let error = response.error {
                 NSAlert(error: error).runModal()
             } else {
@@ -80,8 +80,8 @@ class MainViewController: NSViewController {
         }
     }
 
-    func reloadAvailability() {
-        Alamofire.request(AppleURL.availability).responseJSON { (response) in
+    @objc private func reloadAvailability() {
+        request(AppleURL.availability).responseJSON { (response) in
             if let error = response.error {
                 NSAlert(error: error).runModal()
             } else {
@@ -126,7 +126,7 @@ class MainViewController: NSViewController {
         guard let url = self.reserveURL, sender.selectedRow >= 0 else {
             return
         }
-        NSWorkspace.shared().open(url)
+        NSWorkspace.shared.open(url)
     }
 }
 
@@ -145,7 +145,7 @@ extension MainViewController: NSTableViewDataSource, NSTableViewDelegate {
         if tableView == self.storeTableView {
             return self.stores?[row].storeName
         } else if tableView == self.availabilityTableView {
-            guard let identifier = tableColumn?.identifier,
+            guard let identifier = tableColumn?.identifier.rawValue,
                 let availability = self.availabilities?[row],
                 let product = self.products?.first(where: { $0.partNumber == availability.partNumber }) else {
                 return nil
@@ -194,7 +194,9 @@ extension MainViewController: NSTableViewDataSource, NSTableViewDelegate {
                 let partNumber = self.availabilities?[tableView.selectedRow].partNumber else {
                 return
             }
-            self.reserveURL = URL(string: "https://reserve-prime.apple.com/CN/zh_CN/reserve/iPhone/availability?channel=1&returnURL=&store=\(storeNumber)&partNumber=\(partNumber)")
+            // https://reserve-prime.apple.com/CN/zh_CN/reserve/iPhone/availability?channel=1&appleCare=N&iPP=N&partNumber=MT712CH/A&path=/cn/shop/buy-iphone/iphone-xs/MT712CH/A&rv=1
+            self.reserveURL = URL(string: "https://reserve-prime.apple.com/CN/zh_CN/reserve/iPhone?quantity=1&store=\(storeNumber)&partNumber=\(partNumber)&channel=1&sourceID=&iUID=&iuToken=&iUP=N&appleCare=N&rv=1&path=%2Fcn%2Fshop%2Fbuy-iphone%2Fiphone-xs%2FMT712CH%2FA&plan=unlocked")
+            // URL    https://reserve-prime.apple.com/CN/zh_CN/reserve/iPhone?quantity=1&store=R448&partNumber=MT9P2CH%2FA&channel=1&sourceID=&iUID=&iuToken=&iUP=N&appleCare=N&rv=1&path=%2Fcn%2Fshop%2Fbuy-iphone%2Fiphone-xs%2FMT712CH%2FA&plan=unlocked
         }
     }
 }

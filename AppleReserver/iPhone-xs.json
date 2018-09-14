@@ -1,0 +1,1047 @@
+{
+    "explore": {
+        "lob": "$!{product.lob}",
+        "productDetailCalloutText": "图库",
+        "title": "$smartContent.title",
+        "scrollingGalleryStartPosition": 1,
+        "scrollingGalleryStartOffset": 0,
+        "imageVideoGallery": true,
+        "imageVideoGalleryObjects": [{
+            "imageURL": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-gallery-2018-1?wid=2304&hei=2304&bgc=242,242,242&fmt=jpeg&qlt=75&op_usm=0.5,0.5&fit=constrain&.v=1536171355016",
+            "rgbValue": "0:0:0:1",
+            "videoURL": "https://store.storevideos.cdn-apple.com/v1/store.apple.com/media/video/iphone-xs-gallery-2018-1/iphone-xs-gallery-2018-1.mp4"
+        }, {
+            "imageURL": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-gallery-2018-3?wid=2304&hei=2304&bgc=242,242,242&fmt=jpeg&qlt=75&op_usm=0.5,0.5&fit=constrain&.v=1535396227637",
+            "rgbValue": "0:0:0:1"
+        }, {
+            "imageURL": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-gallery-2018-4?wid=2304&hei=2304&bgc=242,242,242&fmt=jpeg&qlt=75&op_usm=0.5,0.5&fit=constrain&.v=1535396223232",
+            "rgbValue": "0:0:0:1"
+        }, {
+            "imageURL": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-gallery-2018-5?wid=2304&hei=2304&bgc=242,242,242&fmt=jpeg&qlt=75&op_usm=0.5,0.5&fit=constrain&.v=1535396224102",
+            "rgbValue": "0:0:0:1"
+        }],
+        "tabs": [{
+            "id": "gallery",
+            "title": "图库",
+            "imageURL": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/app/pdp/app-pdp-gallery-icon_001?wid=120&hei=120&fmt=png-alpha&qlt=75&.v=0"
+        }],
+        "lifestyleRgbValues": ["0:0:0:1", "0:0:0:1", "0:0:0:1", "0:0:0:1"],
+        "screenImages": [],
+        "videos": [],
+        "videoSkins": [],
+        "videoProperties": {}
+    },
+    "footer": "",
+    "view_url": "app://./pdp/iphone/screen/screen",
+    "omniture": {
+        "trackAsPages": {
+            "tapEngraving": {
+                "server": "mobileapp.apple.com",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "eVar3": "AOS : China Consumer",
+                "prop40": "506738",
+                "eVar19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/engrave",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "storeId": "506738",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "prop2": "AOS : China Consumer",
+                "prop19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/engrave",
+                "prop20": "AOS: CN Consumer",
+                "eVar30": "mobileapp.apple.com",
+                "currencyCode": "CNY"
+            },
+            "AOS : home/shop_iphone/family/iphonexs": {
+                "server": "mobileapp.apple.com",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs",
+                "eVar3": "AOS : China Consumer",
+                "prop40": "506738",
+                "channel": "AOS : iPhone XS",
+                "eVar19": "AOS: home/shop_iphone/family/iphonexs",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs",
+                "storeId": "506738",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs",
+                "prop2": "AOS : China Consumer",
+                "prop19": "AOS: home/shop_iphone/family/iphonexs",
+                "prop20": "AOS: CN Consumer",
+                "eVar1": "AOS : <previousPage> | Nav Banner | iPhone XS selected",
+                "eVar30": "mobileapp.apple.com",
+                "currencyCode": "CNY"
+            },
+            "deliveryOptions": {
+                "server": "mobileapp.apple.com",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs",
+                "eVar3": "AOS : China Consumer",
+                "prop40": "506738",
+                "channel": "AOS : iphone",
+                "eVar19": "AOS: ;:home/shop_iphone/family/iphonexs",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs",
+                "storeId": "506738",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs",
+                "prop2": "AOS : China Consumer",
+                "prop19": "AOS: ;:home/shop_iphone/family/iphonexs",
+                "prop20": "AOS: ;",
+                "eVar30": "mobileapp.apple.com",
+                "currencyCode": "CNY",
+                "events": "event33"
+            }
+        },
+        "trackLinks": {
+            "fullSTTracking": {
+                "products": ";Full;;;;eVar60=Full|eVar62=Full: {smartTileProjectName}|eVar63=AOS: {smartTileProjectName}|eVar64={slotPosition}|eVar66=AOS : pdp/IPHONEXS_MAIN"
+            },
+            "dimensionscreensize_pagename": {
+                "prop19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/model",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs/model",
+                "prop20": "AOS: CN Consumer",
+                "eVar19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/model",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs/model",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs/model"
+            },
+            "iUPEnroll_new": {
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs | Step1 - purchase options | ${carrierModel} | ipp | New",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | Step1 - purchase options | ${carrierModel} | ipp | New"
+            },
+            "model_select_promo": {
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs/model || Step 1 | ${promoText}",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs/model || Step 1 | ${promoText}"
+            },
+            "navBanner_carrier": {
+                "eVar5": "home/shop_iphone/family/iphonexs || NavBanner | Carrier",
+                "linkName": "home/shop_iphone/family/iphonexs || NavBanner | Carrier"
+            },
+            "model_page_image_selected": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step 1 | ${dimensionScreensize} | image selected",
+                "linkName": "home/shop_iphone/family/iphonexs || Step 1 | ${dimensionScreensize} | image selected"
+            },
+            "tradein-overlay-cancel": {
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs | trade-in overlay | Cancel",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | trade-in overlay | Cancel"
+            },
+            "skipEngraving": {
+                "prop19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/engrave",
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs/engrave | Engraving Buttons | Skip Engraving",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "prop20": "AOS: CN Consumer",
+                "eVar19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/engrave",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs/engrave | Engraving Buttons | Skip Engraving"
+            },
+            "iup-upgrade": {
+                "eVar5": "AOS : pdp/IPHONEXS_MAIN | iphone upgrade program | upgrade now",
+                "linkName": "AOS : pdp/IPHONEXS_MAIN | iphone upgrade program | upgrade now"
+            },
+            "apu_warm_start": {
+                "events": "event29,event32"
+            },
+            "carrier_replace_eVar5": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step1 | ${dimensionScreensize} > ${carriermodel} | Replace this iPhone",
+                "linkName": "home/shop_iphone/family/iphonexs || Step1 | ${dimensionScreensize} > ${carriermodel} | Replace this iPhone"
+            },
+            "navBanner_color": {
+                "eVar5": "home/shop_iphone/family/iphonexs || NavBanner | Color",
+                "linkName": "home/shop_iphone/family/iphonexs || NavBanner | Color"
+            },
+            "apu_cold_start": {
+                "events": "event29,event31"
+            },
+            "recentSearchClicked": {
+                "eVar23": "| recent searches | {searchCount}  | {entry} |  {resultNo} ",
+                "events": "event50"
+            },
+            "nearYouSelected": {
+                "eVar5": "AOS : pdp/IPHONEXS_MAIN | near you | selected",
+                "linkName": "AOS : pdp/IPHONEXS_MAIN | near you | selected"
+            },
+            "getready_prop": {
+                "prop8": "iUP Get Ready : {getReadyFlow}"
+            },
+            "mailShare": {
+                "eVar6": "home/shop_iphone/family/iphonexs | Sharing | IPHONEXS_MAIN | mail post",
+                "linkName": "home/shop_iphone/family/iphonexs | Sharing | IPHONEXS_MAIN | mail post"
+            },
+            "locationLinkSelected": {
+                "eVar5": "AOS : pdp/IPHONEXS_MAIN | location | selected",
+                "linkName": "AOS : pdp/IPHONEXS_MAIN | location | selected"
+            },
+            "visit_appleStore": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step1 | Visit an Apple Store",
+                "linkName": "home/shop_iphone/family/iphonexs || Step1 | Visit an Apple Store"
+            },
+            "exploreStart": {
+                "eVar6": "AOS : home/shop_iphone/family/iphonexs | Step 1 | explore watch in detail start",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | Step 1 | explore watch in detail start"
+            },
+            "summary_pagename": {
+                "prop19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/summary",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs/summary",
+                "prop20": "AOS: CN Consumer",
+                "eVar19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/summary",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs/summary",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs/summary"
+            },
+            "dbTracking": {
+                "products": ";Digital Bay;;;;eVar60=DB: {smartTileProjectName}|eVar62=DB: {smartTileProjectName}|eVar63=AOS: {smartTileProjectName}|eVar66=AOS : pdp/IPHONEXS_MAIN"
+            },
+            "productSearch": {
+                "events": "event114",
+                "products": "iphone;{SKU};1;{price};;eVar11=Search"
+            },
+            "360View": {
+                "eVar6": "AOS : home/shop_iphone/family/iphonexs  | Step 1 | 360",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs  | Step 1 | 360"
+            },
+            "model_selection": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step 1 | ${dimensionScreensize} > ${carriermodel} > ${dimensioncolor} > ${dimensioncapacity} | Selected",
+                "linkName": "home/shop_iphone/family/iphonexs || Step 1 | ${dimensionScreensize} > ${carriermodel} > ${dimensioncolor} > ${dimensioncapacity} | Selected"
+            },
+            "find_out_now": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step 1 | iUP - Find out now",
+                "linkName": "home/shop_iphone/family/iphonexs || Step 1 | iUP - Find out now"
+            },
+            "confirm_iphone_preferences": {
+                "eVar1": "home/shop_iphone/family/iphonexs | iUP Get Ready | Button | Get Pre-Order Ready",
+                "prop8": "iUP Get Ready",
+                "linkName": "home/shop_iphone/family/iphonexs | iUP Get Ready | Button | Get Pre-Order Ready"
+            },
+            "fromXapu": {
+                "eVar1": "pdp/IPHONEXS_MAIN | Today at Apple | See all sessions",
+                "linkName": "pdp/IPHONEXS_MAIN | Today at Apple | See all sessions"
+            },
+            "carriermodel_pagename": {
+                "prop19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/carrier",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs/carrier",
+                "prop20": "AOS: CN Consumer",
+                "eVar19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/carrier",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs/carrier",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs/carrier"
+            },
+            "purchaseoptions_show_more": {
+                "eVar6": "home/shop_iphone/family/iphonexs || Step 1 - link | purchase options | show more payment options",
+                "linkName": "home/shop_iphone/family/iphonexs || Step 1 - link | purchase options | show more payment options"
+            },
+            "favorite-deselected-IPHONEXS_MAIN": {
+                "events": "event17",
+                "prop37": "home/shop_iphone/family/iphonexs | PDP | UnFavorite",
+                "linkName": "home/shop_iphone/family/iphonexs | PDP | UnFavorite",
+                "products": "iphone;IPHONEXS_MAIN"
+            },
+            "carrier_variation_replace_this": {
+                "eVar5": "home/shop_iphone/family/iphonexs/carrier | carrier | replace this",
+                "linkName": "home/shop_iphone/family/iphonexs/carrier | carrier | replace this"
+            },
+            "iup-enroll": {
+                "eVar5": "AOS : pdp/IPHONEXS_MAIN | iphone upgrade program | enroll now",
+                "linkName": "AOS : pdp/IPHONEXS_MAIN | iphone upgrade program | enroll now"
+            },
+            "dimension_purchaseoptions_pagename": {
+                "prop19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/purchase_options",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs/purchase_options",
+                "prop20": "AOS: CN Consumer",
+                "eVar19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/purchase_options",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs/purchase_options",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs/purchase_options"
+            },
+            "messageShare": {
+                "eVar6": "home/shop_iphone/family/iphonexs | Sharing | IPHONEXS_MAIN | message post",
+                "linkName": "home/shop_iphone/family/iphonexs | Sharing | IPHONEXS_MAIN | message post"
+            },
+            "twitterShare": {
+                "eVar6": "home/shop_iphone/family/iphonexs | Sharing | IPHONEXS_MAIN | twitter post",
+                "linkName": "home/shop_iphone/family/iphonexs | Sharing | IPHONEXS_MAIN | twitter post"
+            },
+            "compare_payment_options": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step1 | Compare payment options",
+                "linkName": "home/shop_iphone/family/iphonexs || Step1 | Compare payment options"
+            },
+            "dlmTracking": {
+                "products": ";Digital Lightbox;;;;eVar60=DL - Marmite: {smartTileProjectName}|eVar62=DL - Marmite: {smartTileProjectName}|eVar63=dlm : {linkName}|eVar66=AOS : pdp/IPHONEXS_MAIN"
+            },
+            "zoomIn-null": {
+                "eVar6": "AOS : home/shop_iphone/family/iphonexs | null | Zoom in",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | null | Zoom in"
+            },
+            "carrier_variation_replace_another": {
+                "eVar5": "home/shop_iphone/family/iphonexs/carrier | carrier | replace another",
+                "linkName": "home/shop_iphone/family/iphonexs/carrier | carrier | replace another"
+            },
+            "spokesSelected_0": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Spoke | tech-specs",
+                "linkName": "home/shop_iphone/family/iphonexs || Spoke | tech-specs"
+            },
+            "fbShare": {
+                "eVar6": "home/shop_iphone/family/iphonexs | Sharing | IPHONEXS_MAIN | facebook post",
+                "linkName": "home/shop_iphone/family/iphonexs | Sharing | IPHONEXS_MAIN | facebook post"
+            },
+            "searchIconSelected": {
+                "eVar1": "AOS : pdp/IPHONEXS_MAIN || Globalnav || Search",
+                "linkName": "AOS : pdp/IPHONEXS_MAIN || Globalnav || Search"
+            },
+            "spokesSelected_4": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Spoke | faq",
+                "linkName": "home/shop_iphone/family/iphonexs || Spoke | faq"
+            },
+            "spokesSelected_3": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Spoke | financing-options",
+                "linkName": "home/shop_iphone/family/iphonexs || Spoke | financing-options"
+            },
+            "spokesSelected_2": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Spoke | warranty",
+                "linkName": "home/shop_iphone/family/iphonexs || Spoke | warranty"
+            },
+            "promo_banner": {
+                "eVar1": "${pageName} | ${link} | ${promoText}",
+                "linkName": "${pageName} | ${link} | ${promoText}"
+            },
+            "spokesSelected_1": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Spoke | whats-in-the-box",
+                "linkName": "home/shop_iphone/family/iphonexs || Spoke | whats-in-the-box"
+            },
+            "max-favorite-reached": {
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs | favorites | reached maximum",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | favorites | reached maximum"
+            },
+            "galleryImageSwipe": {
+                "eVar6": "AOS : home/shop_iphone/family/iphonexs  | Step 1 | gallery swipe",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs  | Step 1 | gallery swipe"
+            },
+            "carrier_buy_new_eVar5": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step1 | ${dimensionScreensize} > ${carriermodel} | Buy a new iPhone",
+                "linkName": "home/shop_iphone/family/iphonexs || Step1 | ${dimensionScreensize} > ${carriermodel} | Buy a new iPhone"
+            },
+            "removeEngraving": {
+                "prop19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/engrave",
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs/engrave | Engraving Buttons | Remove Engraving",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "prop20": "AOS: CN Consumer",
+                "eVar19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/engrave",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs/engrave | Engraving Buttons | Remove Engraving"
+            },
+            "checkAvailabilityEvents_cold": {
+                "events": "event29,event31",
+                "prop37": "home/shop_iphone/family/iphonexs || StoreLocator || Check availability"
+            },
+            "model_page_button_selected": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step 1 | ${dimensionScreensize} | button selected",
+                "linkName": "home/shop_iphone/family/iphonexs || Step 1 | ${dimensionScreensize} | button selected"
+            },
+            "upgrade_this_iphone": {
+                "eVar5": "home/shop_iphone/family/iphonexs/carrier || Step 1 - iUP | ${carriermodel} | Upgrade this iPhone",
+                "linkName": "home/shop_iphone/family/iphonexs/carrier || Step 1 - iUP | ${carriermodel} | Upgrade this iPhone"
+            },
+            "suggestedSearchClicked": {
+                "eVar23": "{searchText}  | suggested search | {resultsCount} | {entry} | {resultNo}",
+                "events": "event39"
+            },
+            "gallerySwipe-null": {
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs | null | gallery swipe",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | null | gallery swipe"
+            },
+            "dimensioncapacity_pagename": {
+                "prop19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/capacity",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs/capacity",
+                "prop20": "AOS: CN Consumer",
+                "eVar19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/capacity",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs/capacity",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs/capacity"
+            },
+            "keyFeatures": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step 1 | Key features",
+                "linkName": "home/shop_iphone/family/iphonexs || Step 1 | Key features"
+            },
+            "tradein-overlay-remove": {
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs | trade-in overlay | Remove",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | trade-in overlay | Remove"
+            },
+            "iUP_payment_option": {
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs | Step1 - purchase options | ${carrierModel} | ${formValue}",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | Step1 - purchase options | ${carrierModel} | ${formValue}"
+            },
+            "carrier_variation_iup": {
+                "eVar5": "home/shop_iphone/family/iphonexs/carrier | carrier | iup",
+                "linkName": "home/shop_iphone/family/iphonexs/carrier | carrier | iup"
+            },
+            "modular_cancel_button": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step 1 | Modular Cancel Button",
+                "linkName": "home/shop_iphone/family/iphonexs || Step 1 | Modular Cancel Button"
+            },
+            "summary_select_promo": {
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs/summary || Step 1 | ${promoText}",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs/summary || Step 1 | ${promoText}"
+            },
+            "tradein-get-started": {
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs | trade-in link | Get Started",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | trade-in link | Get Started"
+            },
+            "navBanner_model": {
+                "eVar5": "home/shop_iphone/family/iphonexs || NavBanner | Model",
+                "linkName": "home/shop_iphone/family/iphonexs || NavBanner | Model"
+            },
+            "iUPEnroll_existing": {
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs | Step1 - purchase options | ${carrierModel} | ipp | Existing",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | Step1 - purchase options | ${carrierModel} | ipp | Existing"
+            },
+            "addEngraving": {
+                "prop19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/engrave",
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs/engrave | Engraving Buttons | Add Engraving",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "prop20": "AOS: CN Consumer",
+                "eVar19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/engrave",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs/engrave",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs/engrave | Engraving Buttons | Add Engraving"
+            },
+            "exploreEnd": {
+                "eVar6": "AOS : home/shop_iphone/family/iphonexs | Step 1 | explore watch in detail end",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | Step 1 | explore watch in detail end"
+            },
+            "check_eligibility_status": {
+                "eVar5": "home/shop_iphone/family/iphonexs/carrier || Step 1 - iUP | Other > Check eligibility status",
+                "linkName": "home/shop_iphone/family/iphonexs/carrier || Step 1 - iUP | Other > Check eligibility status"
+            },
+            "fullTracking": {
+                "products": ";Full;;;;eVar60=Full: {smartTileProjectName}|eVar62=Full: {smartTileProjectName}|eVar63=AOS: {smartTileProjectName}|eVar64={tileNum}|eVar65={tileNum}/{tileCount}|eVar66=AOS : pdp/IPHONEXS_MAIN"
+            },
+            "carrier_compatible_with_iphone": {
+                "eVar5": "home/shop_iphone/family/iphonexs | iUp Get Ready | link | See Carriers compatible with this iPhone",
+                "linkName": "home/shop_iphone/family/iphonexs | iUp Get Ready | link | See Carriers compatible with this iPhone"
+            },
+            "purchaseoptions_show_fewer": {
+                "eVar6": "home/shop_iphone/family/iphonexs || Step 1 - link | purchase options | show fewer payment options",
+                "linkName": "home/shop_iphone/family/iphonexs || Step 1 - link | purchase options | show fewer payment options"
+            },
+            "fullGTGProductsString": {
+                "products": ";Full;;;;eVar60 =  Full: {smartTileProjectName} | eVar62 =  Full: {smartTileProjectName} | eVar63 = AOS: {smartTileProjectName} | evar64 = {tileNum} | eVar65 = {tileNum}/{tileCount} | eVar66 = AOS : pdp/IPHONEXS_MAIN"
+            },
+            "checkAvailabilityEvents_warm": {
+                "events": "event29,event32",
+                "prop37": "home/shop_iphone/family/iphonexs || StoreLocator || See More stores"
+            },
+            "navBanner_iPhone": {
+                "eVar5": "home/shop_iphone/family/iphonexs || NavBanner | iPhone",
+                "linkName": "home/shop_iphone/family/iphonexs || NavBanner | iPhone"
+            },
+            "favorite-selected-IPHONEXS_MAIN": {
+                "events": "event10",
+                "prop37": "home/shop_iphone/family/iphonexs | PDP | Favorite",
+                "linkName": "home/shop_iphone/family/iphonexs | PDP | Favorite",
+                "products": "iphone;IPHONEXS_MAIN"
+            },
+            "dimensioncolor_pagename": {
+                "prop19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/color",
+                "eVar4": "AOS : home/shop_iphone/family/iphonexs/color",
+                "prop20": "AOS: CN Consumer",
+                "eVar19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs/color",
+                "prop8": "AOS : home/shop_iphone/family/iphonexs/color",
+                "pageName": "AOS : home/shop_iphone/family/iphonexs/color"
+            },
+            "view_gallery": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step 1 | View Gallery",
+                "linkName": "home/shop_iphone/family/iphonexs || Step 1 | View Gallery"
+            },
+            "color_swipes_eVar5": {
+                "eVar5": "home/shop_iphone/family/iphonexs | Step 1 | Color Selector | ${selectedColorOrder}",
+                "linkName": "home/shop_iphone/family/iphonexs | Step 1 | Color Selector | ${selectedColorOrder}"
+            },
+            "tradein-change": {
+                "eVar5": "AOS : home/shop_iphone/family/iphonexs | trade-in link | Change",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | trade-in link | Change"
+            },
+            "deliveryOptions": {
+                "events": "event33",
+                "prop37": "home/shop_iphone/family/iphonexs || step 1 || Delivery options - cold"
+            },
+            "errorAlert": {
+                "eVar25": "AOS : home/shop_iphone/family/iphonexs | error | ${errorvalue}",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | error | ${errorvalue}"
+            },
+            "color_swipes_eVar6": {
+                "eVar6": "home/shop_iphone/family/iphonexs | Step 1 | Color Selector | 1 - 银色, 2 - 深空灰色, 3 - 金色, ",
+                "linkName": "home/shop_iphone/family/iphonexs | Step 1 | Color Selector | 1 - 银色, 2 - 深空灰色, 3 - 金色, "
+            },
+            "screensize_buy_new_eVar5": {
+                "eVar5": "home/shop_iphone/family/iphonexs || Step1 | ${dimensionScreensize} | Buy a new iPhone Button",
+                "linkName": "home/shop_iphone/family/iphonexs || Step1 | ${dimensionScreensize} | Buy a new iPhone Button"
+            },
+            "galleryView": {
+                "eVar6": "AOS : home/shop_iphone/family/iphonexs  | Step 1 | gallery",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs  | Step 1 | gallery"
+            },
+            "exploreView": {
+                "eVar6": "AOS : home/shop_iphone/family/iphonexs | Step 1 | Explore",
+                "linkName": "AOS : home/shop_iphone/family/iphonexs | Step 1 | Explore"
+            },
+            "compareLinkTapped": {
+                "eVar5": "${pageName} | Compare Link Tapped",
+                "linkName": "${pageName} | Compare Link Tapped"
+            },
+            "dlTracking": {
+                "products": ";Digital Lightbox;;;;eVar60=DL: {smartTileProjectName}|eVar62=DL: {smartTileProjectName}|eVar63=dl : {linkName}|eVar66=AOS : pdp/IPHONEXS_MAIN"
+            },
+            "tradeUp": {
+                "eVar1": "AOS : Search | trade up | {linkName}",
+                "linkName": "AOS : Search | trade up | {linkName}"
+            },
+            "airDropShare": {
+                "eVar6": "home/shop_iphone/family/iphonexs | Sharing | IPHONEXS_MAIN | airDrop post",
+                "linkName": "home/shop_iphone/family/iphonexs | Sharing | IPHONEXS_MAIN | airDrop post"
+            }
+        },
+        "trackPage": {
+            "server": "mobileapp.apple.com",
+            "eVar4": "AOS : home/shop_iphone/family/iphonexs",
+            "eVar3": "AOS : China Consumer",
+            "prop40": "506738",
+            "eVar19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs",
+            "prop8": "AOS : home/shop_iphone/family/iphonexs",
+            "storeId": "506738",
+            "pageName": "AOS : home/shop_iphone/family/iphonexs",
+            "prop2": "AOS : China Consumer",
+            "prop19": "AOS: CN Consumer:home/shop_iphone/family/iphonexs",
+            "prop20": "AOS: CN Consumer",
+            "eVar30": "mobileapp.apple.com",
+            "currencyCode": "CNY"
+        }
+    },
+    "prefetch": [],
+    "startPage": "dimensionscreensize",
+    "pages": {
+        "dimensionscreensize": {
+            "bottomPromo": {
+                "iupMessage": false
+            },
+            "compare": {
+                "imageURL": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/compare/iphone-compare-models-201809_FMT_APP?fmt=jpeg&qlt=75&op_usm=1.5,0.5&.v=1536001310668",
+                "link": "external-sec://www.apple.com/cn/iphone/compare?cid=ASA-iPhone-compare",
+                "text": "iPhone 机型比较 *\\uf012*"
+            },
+            "description": {},
+            "footnote": "1. 实际可用容量会由于诸多因素而减少并有所差异。依据型号和设置的不同，标准系统配置会占用约 10GB 到 12GB 容量 (其中包括 iOS 和内置 app)。\n^*^iPhone XS 显示屏采用曲线优美的圆角设计，四个圆角位于一个标准矩形内。按照标准矩形测量时，屏幕的对角线长度是 5.85 英寸 (iPhone XS) 和 6.46 英寸 (iPhone XS Max) (实际可视区域较小)。",
+            "formKey": "dimensionScreensize",
+            "heading": "#选择一款 iPhone XS 机型",
+            "iup": {
+                "bannerLink": "modal:app://./pdp/iphone/iup/intermediate?modalPresentationStyle=fullscreen",
+                "efapromo": "Your preapproval for a new iPhone XS is pending. [View status]((modal:iupPage:iUPPADeviceList?fqt=1)",
+                "savedBagPromo": "You’ve been preapproved for a new iPhone XS. [View preapproval](modal:iupPage:iUPPADeviceList?fqt=1)",
+                "savedBagsLink": "modal:iupPage:iUPPADeviceList?fqt=1",
+                "upgradePromo": "你可能有资格通过 iPhone 年年焕新计划升级换购新款 iPhone。[立即了解升级换购](modal:app://./pdp/iphone/iup/intermediate?modalPresentationStyle=fullscreen)"
+            },
+            "iupCheckerEnabled": true,
+            "myDevicesSubheaderEnabled": false,
+            "next": "dimensioncolor",
+            "options": [{
+                "displayName": "iPhone XS",
+                "formValue": "5_8inch",
+                "text": "|#iPhone XS\\n5.8 英寸显示屏*|\\n##RMB 8699 起售\\n##更有分期付款选择。",
+                "videoUrl": "https://store.storevideos.cdn-apple.com/v1/store.apple.com/media/video/iphone-xs-select-vid/iphone-xs-select-vid.mp4"
+            }, {
+                "displayName": "iPhone XS Max",
+                "formValue": "6_5inch",
+                "text": "|#iPhone XS Max\\n6.5 英寸显示屏*|\\n##RMB 9599 起售\\n##更有分期付款选择。",
+                "videoUrl": "https://store.storevideos.cdn-apple.com/v1/store.apple.com/media/video/iphone-xs-max-select-vid/iphone-xs-max-select-vid.mp4"
+            }],
+            "pickupEnabledForiUP": false,
+            "promo": {
+                "iupMessage": true,
+                "text": "加入 iPhone 年年焕新计划，年年用上新 iPhone。已加入 iPhone 年年焕新计划？看看你是否具备升级换购资格。 \\n[进一步了解](https://mobileapp.apple.com/mnm/p/cn/msl/home/shop_iphone/iphone_upgrade_program)"
+            },
+            "skippable": false,
+            "subheader": "每位顾客限购两部 iPhone XS 和两部 iPhone XS Max。",
+            "title": "机型",
+            "tradeIn": {}
+        },
+        "summary": {
+            "bottomPromo": {
+                "bannerLink": "node:apps/home/shop_iphone/family/iphone8/carrier_overlay/unlocked?__options.transition=modal&__options.modalPresentationStyle=fullscreen",
+                "iupMessage": false,
+                "text": "[查看支持此款 iPhone 的运营商。](https://mobileapp.apple.com/mnm/p/cn/msl/home/shop_iphone/family/iphone8/carrier_overlay/unlocked?__options.transition=modal&__options.modalPresentationStyle=fullscreen)"
+            },
+            "compare": {
+                "imageURL": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/compare/iphone-compare-models-201809_FMT_APP?fmt=jpeg&qlt=75&op_usm=1.5,0.5&.v=1536001310668",
+                "link": "external-sec://www.apple.com/cn/iphone/compare?cid=ASA-iPhone-compare",
+                "text": "iPhone 机型比较 *\\uf012*"
+            },
+            "footnote": "1. 实际可用容量会由于诸多因素而减少并有所差异。依据型号和设置的不同，标准系统配置会占用约 10GB 到 12GB 容量 (其中包括 iOS 和内置 app)。\n^*^iPhone XS 显示屏采用曲线优美的圆角设计，四个圆角位于一个标准矩形内。按照标准矩形测量时，屏幕的对角线长度是 5.85 英寸 (iPhone XS) 和 6.46 英寸 (iPhone XS Max) (实际可视区域较小)。",
+            "heading": "#这就是你的新 iPhone XS。\\n",
+            "iup": {
+                "bannerLink": "modal:app://./pdp/iphone/iup/intermediate?modalPresentationStyle=fullscreen",
+                "upgradePromo": "你可能有资格通过 iPhone 年年焕新计划升级换购新款 iPhone。[立即了解升级换购](modal:app://./pdp/iphone/iup/intermediate?modalPresentationStyle=fullscreen)"
+            },
+            "iupCheckerEnabled": true,
+            "myDevicesSubheaderEnabled": false,
+            "pickupEnabledForiUP": false,
+            "promo": {
+                "iupMessage": true,
+                "text": "加入 iPhone 年年焕新计划，每年获取一部新 iPhone。已加入 iPhone 年年焕新计划？看看你是否具备升级换购资格。\n[进一步了解](https://mobileapp.apple.com/mnm/p/cn/msl/home/shop_iphone/iphone_upgrade_program)"
+            },
+            "title": "概览",
+            "tradeIn": {},
+            "translations": {
+                "mobile.store.variant.summary.change_payment": "[Change payment option](purchaseoptions:)",
+                "mobile.store.variant.summary.iup.change_payment_option": "You can [change your payment option](purchaseoptions:), but by doing so you’ll be leaving the iPhone Upgrade Program.",
+                "mobile.store.variant.summary.iup.buy_up_message": "With an early upgrade payment of $[buyUpAmount]",
+                "mobile.store.variant.summary.iup.buy_up_message_leaving_program": "And a remaining iPhone Upgrade Program balance of $[buyUpAmount]",
+                "mobile.store.variant.summary.iup.change_payment_option_default": "[Choose a different payment option](purchaseoptions:)",
+                "mobile.store.variant.summary.iup.leaving_program_message": "Your new iPhone will not be part of the iPhone Upgrade Program. You’ll still need to send back your current iPhone to Apple.",
+                "mobile.store.variant.summary.iup.leaving_iup_message": "Your new iPhone will not be part of the iPhone Upgrade Program. You’ll still need to send back your current iPhone to Apple.",
+                "mobile.store.variant.summary.price": "价格"
+            },
+            "updateUrl": "https://mobileapp.apple.com/mnm/p/cn/modular/pdp-update-details"
+        },
+        "dimensioncapacity": {
+            "bottomPromo": {
+                "iupMessage": false
+            },
+            "compare": {
+                "imageURL": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/compare/iphone-compare-models-201809_FMT_APP?fmt=jpeg&qlt=75&op_usm=1.5,0.5&.v=1536001310668",
+                "link": "external-sec://www.apple.com/cn/iphone/compare?cid=ASA-iPhone-compare",
+                "text": "iPhone 机型比较 *\\uf012*"
+            },
+            "description": {},
+            "dudeUrl": "https://mobileapp.apple.com/mnm/p/cn/shipping/shipping-lite",
+            "footnote": "1. 实际可用容量会由于诸多因素而减少并有所差异。依据型号和设置的不同，标准系统配置会占用约 10GB 到 12GB 容量 (其中包括 iOS 和内置 app)。\n^*^iPhone XS 显示屏采用曲线优美的圆角设计，四个圆角位于一个标准矩形内。按照标准矩形测量时，屏幕的对角线长度是 5.85 英寸 (iPhone XS) 和 6.46 英寸 (iPhone XS Max) (实际可视区域较小)。",
+            "formKey": "dimensionCapacity",
+            "heading": "#然后选择存储容量",
+            "iupCheckerEnabled": false,
+            "myDevicesSubheaderEnabled": true,
+            "next": "summary",
+            "options": [{
+                "displayName": "64GB^1^",
+                "formValue": "64gb",
+                "text": "#64GB^1^"
+            }, {
+                "displayName": "256GB^1^",
+                "formValue": "256gb",
+                "text": "#256GB^1^"
+            }, {
+                "displayName": "512GB^1^",
+                "formValue": "512gb",
+                "text": "#512GB^1^"
+            }],
+            "pickupEnabledForiUP": false,
+            "promo": {
+                "iupMessage": false
+            },
+            "skippable": false,
+            "subheader": "你现有的 {model} 是 {capacity} 的机型。",
+            "title": "容量",
+            "tradeIn": {}
+        },
+        "dimensioncolor": {
+            "bottomPromo": {
+                "iupMessage": false
+            },
+            "compare": {
+                "imageURL": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/compare/iphone-compare-models-201809_FMT_APP?fmt=jpeg&qlt=75&op_usm=1.5,0.5&.v=1536001310668",
+                "link": "external-sec://www.apple.com/cn/iphone/compare?cid=ASA-iPhone-compare",
+                "text": "iPhone 机型比较 *\\uf012*"
+            },
+            "description": {},
+            "footnote": "1. 实际可用容量会由于诸多因素而减少并有所差异。依据型号和设置的不同，标准系统配置会占用约 10GB 到 12GB 容量 (其中包括 iOS 和内置 app)。\n^*^iPhone XS 显示屏采用曲线优美的圆角设计，四个圆角位于一个标准矩形内。按照标准矩形测量时，屏幕的对角线长度是 5.85 英寸 (iPhone XS) 和 6.46 英寸 (iPhone XS Max) (实际可视区域较小)。",
+            "formKey": "dimensionColor",
+            "heading": "#选择你想要的外观",
+            "iupCheckerEnabled": false,
+            "myDevicesSubheaderEnabled": false,
+            "next": "dimensioncapacity",
+            "options": [{
+                "displayName": "银色",
+                "formValue": "silver",
+                "text": "银色"
+            }, {
+                "displayName": "深空灰色",
+                "formValue": "space_gray",
+                "text": "深空灰色"
+            }, {
+                "displayName": "金色",
+                "formValue": "gold",
+                "text": "金色"
+            }],
+            "pickupEnabledForiUP": false,
+            "promo": {
+                "iupMessage": false
+            },
+            "skippable": false,
+            "title": "外观",
+            "tradeIn": {}
+        }
+    },
+    "productTree": {
+        "root": {
+            "6_5inch": {
+                "silver": {
+                    "256gb": {
+                        "basePartNumber": "MT752",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT752CH/A",
+                        "price": "RMB 10,999\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 10,999\\n更有分期付款选择。",
+                            "fullPrice": "RMB 10,999\\n更有分期付款选择。"
+                        }
+                    },
+                    "64gb": {
+                        "basePartNumber": "MT722",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT722CH/A",
+                        "price": "RMB 9599\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 9599\\n更有分期付款选择。",
+                            "fullPrice": "RMB 9599\\n更有分期付款选择。"
+                        }
+                    },
+                    "512gb": {
+                        "basePartNumber": "MT782",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT782CH/A",
+                        "price": "RMB 12,799\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 12,799\\n更有分期付款选择。",
+                            "fullPrice": "RMB 12,799\\n更有分期付款选择。"
+                        }
+                    },
+                    "_images": {
+                        "fan": "6_5inch.silver.AV4",
+                        "frontback": "6_5inch.silver.frontback",
+                        "front": "6_5inch.silver.AV1",
+                        "peek": "6_5inch.silver.AV3"
+                    }
+                },
+                "gold": {
+                    "256gb": {
+                        "basePartNumber": "MT762",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT762CH/A",
+                        "price": "RMB 10,999\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 10,999\\n更有分期付款选择。",
+                            "fullPrice": "RMB 10,999\\n更有分期付款选择。"
+                        }
+                    },
+                    "64gb": {
+                        "basePartNumber": "MT732",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT732CH/A",
+                        "price": "RMB 9599\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 9599\\n更有分期付款选择。",
+                            "fullPrice": "RMB 9599\\n更有分期付款选择。"
+                        }
+                    },
+                    "512gb": {
+                        "basePartNumber": "MT792",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT792CH/A",
+                        "price": "RMB 12,799\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 12,799\\n更有分期付款选择。",
+                            "fullPrice": "RMB 12,799\\n更有分期付款选择。"
+                        }
+                    },
+                    "_images": {
+                        "fan": "6_5inch.gold.AV4",
+                        "frontback": "6_5inch.gold.frontback",
+                        "front": "6_5inch.gold.AV1",
+                        "peek": "6_5inch.gold.AV3"
+                    }
+                },
+                "space_gray": {
+                    "256gb": {
+                        "basePartNumber": "MT742",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT742CH/A",
+                        "price": "RMB 10,999\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 10,999\\n更有分期付款选择。",
+                            "fullPrice": "RMB 10,999\\n更有分期付款选择。"
+                        }
+                    },
+                    "64gb": {
+                        "basePartNumber": "MT712",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT712CH/A",
+                        "price": "RMB 9599\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 9599\\n更有分期付款选择。",
+                            "fullPrice": "RMB 9599\\n更有分期付款选择。"
+                        }
+                    },
+                    "512gb": {
+                        "basePartNumber": "MT772",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT772CH/A",
+                        "price": "RMB 12,799\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 12,799\\n更有分期付款选择。",
+                            "fullPrice": "RMB 12,799\\n更有分期付款选择。"
+                        }
+                    },
+                    "_images": {
+                        "fan": "6_5inch.space_gray.AV4",
+                        "frontback": "6_5inch.space_gray.frontback",
+                        "front": "6_5inch.space_gray.AV1",
+                        "peek": "6_5inch.space_gray.AV3"
+                    }
+                },
+                "_images": {
+                    "fan": "6_5inch.space_gray.AV4"
+                }
+            },
+            "5_8inch": {
+                "silver": {
+                    "256gb": {
+                        "basePartNumber": "MT9U2",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT9U2CH/A",
+                        "price": "RMB 10,099\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 10,099\\n更有分期付款选择。",
+                            "fullPrice": "RMB 10,099\\n更有分期付款选择。"
+                        }
+                    },
+                    "64gb": {
+                        "basePartNumber": "MT9Q2",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT9Q2CH/A",
+                        "price": "RMB 8699\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 8699\\n更有分期付款选择。",
+                            "fullPrice": "RMB 8699\\n更有分期付款选择。"
+                        }
+                    },
+                    "512gb": {
+                        "basePartNumber": "MT9X2",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT9X2CH/A",
+                        "price": "RMB 11,899\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 11,899\\n更有分期付款选择。",
+                            "fullPrice": "RMB 11,899\\n更有分期付款选择。"
+                        }
+                    },
+                    "_images": {
+                        "fan": "5_8inch.silver.AV4",
+                        "frontback": "5_8inch.silver.frontback",
+                        "front": "5_8inch.silver.AV1",
+                        "peek": "5_8inch.silver.AV3"
+                    }
+                },
+                "gold": {
+                    "256gb": {
+                        "basePartNumber": "MT9V2",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT9V2CH/A",
+                        "price": "RMB 10,099\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 10,099\\n更有分期付款选择。",
+                            "fullPrice": "RMB 10,099\\n更有分期付款选择。"
+                        }
+                    },
+                    "64gb": {
+                        "basePartNumber": "MT9R2",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT9R2CH/A",
+                        "price": "RMB 8699\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 8699\\n更有分期付款选择。",
+                            "fullPrice": "RMB 8699\\n更有分期付款选择。"
+                        }
+                    },
+                    "512gb": {
+                        "basePartNumber": "MT9Y2",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT9Y2CH/A",
+                        "price": "RMB 11,899\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 11,899\\n更有分期付款选择。",
+                            "fullPrice": "RMB 11,899\\n更有分期付款选择。"
+                        }
+                    },
+                    "_images": {
+                        "fan": "5_8inch.gold.AV4",
+                        "frontback": "5_8inch.gold.frontback",
+                        "front": "5_8inch.gold.AV1",
+                        "peek": "5_8inch.gold.AV3"
+                    }
+                },
+                "space_gray": {
+                    "256gb": {
+                        "basePartNumber": "MT9T2",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT9T2CH/A",
+                        "price": "RMB 10,099\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 10,099\\n更有分期付款选择。",
+                            "fullPrice": "RMB 10,099\\n更有分期付款选择。"
+                        }
+                    },
+                    "64gb": {
+                        "basePartNumber": "MT9P2",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT9P2CH/A",
+                        "price": "RMB 8699\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 8699\\n更有分期付款选择。",
+                            "fullPrice": "RMB 8699\\n更有分期付款选择。"
+                        }
+                    },
+                    "512gb": {
+                        "basePartNumber": "MT9W2",
+                        "productLocatorEnabled": false,
+                        "partNumber": "MT9W2CH/A",
+                        "price": "RMB 11,899\\n更有分期付款选择。",
+                        "preapprovalEnabledForProduct": false,
+                        "purchaseOptions": {
+                            "default": "RMB 11,899\\n更有分期付款选择。",
+                            "fullPrice": "RMB 11,899\\n更有分期付款选择。"
+                        }
+                    },
+                    "_images": {
+                        "fan": "5_8inch.space_gray.AV4",
+                        "frontback": "5_8inch.space_gray.frontback",
+                        "front": "5_8inch.space_gray.AV1",
+                        "peek": "5_8inch.space_gray.AV3"
+                    }
+                },
+                "_images": {
+                    "fan": "5_8inch.space_gray.AV4"
+                }
+            }
+        }
+    },
+    "upgrade": false,
+    "preapprovalEnabled": false,
+    "upgraderGREnabled": false,
+    "enrolleeGREnabled": false,
+    "tmobilePreauthEnabled": false,
+    "partNumber": "IPHONEXS_MAIN",
+    "translations": {
+        "scannerSubtitle": "查看产品详细信息。确认兼容性。直接从你的 iPhone 上购买。",
+        "timeoutError": "找不到你想要的商品？请向 Specialist 专家寻求帮助。",
+        "scannerUnavailable": "目前不提供自助结账服务。",
+        "unavailableError": "目前不提供自助结账服务。",
+        "scannerTitle": "扫描条形码",
+        "barcodeUnrecognizedError": "无法识别条形码。再试一次。",
+        "tapToScan": "轻触以扫描",
+        "barcodeNotMatchError": "条形码与选定的产品不匹配。请重试或咨询 Specialist 专家获得帮助。",
+        "genericError": "非常抱歉。处理你的请求时遇到问题。请稍后再试。",
+        "ok": "好",
+        "mobile.store.easypay.otherpayment.button.line2": "其他付款方式购买",
+        "mobile.store.easypay.otherpayment.button.line1": "使用",
+        "mobile.store.button.continue": "继续"
+    },
+    "bizChatQueryParams": {
+        "intentID": {
+            "targetDialog": "RCC Async handoff",
+            "handoff_reason": "sales_iphone"
+        },
+        "groupID": {
+            "domain": "AOS",
+            "origin": "ASA",
+            "page": "AOS : home/shop_iphone/family/iphonexs"
+        }
+    },
+    "keyFeaturesText": "主要功能",
+    "keyFeaturesLink": "https://mobileapp.apple.com/mnm/p/cn/msl/home/shop_iphone/family/iphonexs/keyfeatures?__options.transition=modal&__options.modalPresentationStyle=fullscreen",
+    "hideCompareForGetReady": true,
+    "imageMap": {
+        "5_8inch.space_gray.AV4": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-space-select-2018_AV4_FMT_APP?wid=238&hei=392&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535738089949",
+        "5_8inch.space_gray.AV3": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-space-select-2018_AV3?wid=1246&hei=518&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535414342432",
+        "6_5inch.space_gray.AV1": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-space-select-2018_AV1?wid=226&hei=660&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535393753946",
+        "5_8inch.space_gray.AV1": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-space-select-2018_AV1?wid=226&hei=660&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535393751390",
+        "6_5inch.space_gray.AV4": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-space-select-2018_AV4_FMT_APP?wid=238&hei=392&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535738090076",
+        "6_5inch.space_gray.AV3": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-space-select-2018_AV3?wid=1246&hei=518&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535414340795",
+        "6_5inch.silver.AV4": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-silver-select-2018_FMT_APP?wid=2014&hei=4000&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535569871837",
+        "6_5inch.silver.AV3": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-silver-select-2018_AV3?wid=1246&hei=518&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535414340657",
+        "5_8inch.silver.frontback": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-silver-select-2018_FMT_APP?wid=2034&hei=4000&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1536792201054",
+        "5_8inch.gold.frontback": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-gold-select-2018_FMT_APP?wid=2034&hei=4000&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1536792202668",
+        "6_5inch.silver.AV1": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-silver-select-2018_AV1?wid=226&hei=660&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535393753694",
+        "6_5inch.gold.frontback": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-gold-select-2018_FMT_APP?wid=2014&hei=4000&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535569866705",
+        "5_8inch.silver.AV3": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-silver-select-2018_AV3?wid=1246&hei=518&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535414340433",
+        "5_8inch.silver.AV1": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-silver-select-2018_AV1?wid=226&hei=660&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535393751260",
+        "6_5inch.space_gray.frontback": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-space-select-2018_FMT_APP?wid=2014&hei=4000&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535569865180",
+        "5_8inch.space_gray.frontback": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-space-select-2018_FMT_APP?wid=2034&hei=4000&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1536792201479",
+        "6_5inch.gold.AV1": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-gold-select-2018_AV1?wid=226&hei=660&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535393752704",
+        "5_8inch.silver.AV4": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-silver-select-2018_FMT_APP?wid=2034&hei=4000&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1536792201054",
+        "6_5inch.silver.frontback": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-silver-select-2018_FMT_APP?wid=2014&hei=4000&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535569871837",
+        "6_5inch.gold.AV3": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-gold-select-2018_AV3?wid=1246&hei=518&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535414340545",
+        "6_5inch.gold.AV4": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-max-gold-select-2018_FMT_APP?wid=2014&hei=4000&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535569866705",
+        "5_8inch.gold.AV1": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-gold-select-2018_AV1?wid=226&hei=660&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535393752653",
+        "5_8inch.gold.AV3": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-gold-select-2018_AV3?wid=1246&hei=518&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1535414342478",
+        "5_8inch.gold.AV4": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-gold-select-2018_FMT_APP?wid=2034&hei=4000&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1536792202668"
+    },
+    "viewsMap": {
+        "dimensionscreensize": "app://./pdp/iphone/screen/screen",
+        "carriermodel": "app://./pdp/iphone/carrier/carrier",
+        "dimension_purchaseoptions": "app://./pdp/iphone/purchaseoptions/purchaseoptions",
+        "dimensioncapacity": "app://./pdp/iphone/capacity/capacity",
+        "dimensioncolor": "app://./pdp/iphone/color/color",
+        "summary": "app://./pdp/iphone/summary/summary"
+    },
+    "spokes": [{
+        "activated": true,
+        "enabled": true,
+        "key": "tech-specs",
+        "title": "技术规格",
+        "type": "HTML",
+        "url": "https://mobileapp.apple.com/mnm/p/cn/spokes/product/IPHONEXS_MAIN/tech-specs/apps/spokes/iphonexs"
+    }, {
+        "activated": true,
+        "enabled": true,
+        "key": "whats-in-the-box",
+        "title": "包装内容",
+        "type": "NATIVE",
+        "url": "https://mobileapp.apple.com/mnm/p/cn/spokes/product/IPHONEXS_MAIN/whats-in-the-box/apps/spokes/iphonexs"
+    }, {
+        "activated": true,
+        "enabled": true,
+        "key": "warranty",
+        "title": "保修与 AppleCare 全方位服务计划",
+        "type": "NATIVE",
+        "url": "https://mobileapp.apple.com/mnm/p/cn/spokes/product/IPHONEXS_MAIN/warranty/apps/spokes/iphonexs"
+    }, {
+        "activated": true,
+        "enabled": true,
+        "key": "financing-options",
+        "title": "分期付款选项",
+        "type": "NATIVE",
+        "url": "https://mobileapp.apple.com/mnm/p/cn/installments/IPHONEXS_MAIN"
+    }, {
+        "activated": true,
+        "enabled": true,
+        "key": "faq",
+        "title": "常见问题解答",
+        "type": "NATIVE",
+        "url": "https://mobileapp.apple.com/mnm/p/cn/spokes/product/IPHONEXS_MAIN/faq/apps/spokes/iphonexs"
+    }],
+    "recentlyViewed": {
+        "badgeImage": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/n/ew/new/badge/new-badge-2013_GEO_CN?fmt=jpeg&qlt=75&op_usm=1.5,0.5&.v=0",
+        "currencyDisplay": "RMB 8,699 起",
+        "displayName": "iPhone XS",
+        "parent": "IPHONEXS_MAIN",
+        "partNumber": "IPHONEXS_MAIN",
+        "productImage": "https://store.storeimages.cdn-apple.com/8755/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/xs/iphone-xs-select-2018-group",
+        "productLink": "https://mobileapp.apple.com/mnm/p/cn/pdp/IPHONEXS_MAIN",
+        "storeFront": "cn",
+        "ttl": 1200,
+        "validateLink": "https://mobileapp.apple.com/mnm/p/cn/pdp/validate/IPHONEXS_MAIN"
+    }
+}

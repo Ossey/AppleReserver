@@ -8,7 +8,9 @@
 
 import Foundation
 
-public struct AppleURL {
+public struct AppleURL {///iphone-xs
+    //URL    https://reserve-prime.apple.com/CN/zh_CN/reserve/iPhone/availability.json
+    // URL    https://reserve-prime.apple.com/CN/zh_CN/reserve/iPhone/stores.json
     static let stores = URL(string: "https://reserve-prime.apple.com/CN/zh_CN/reserve/iPhone/stores.json")!
     static let availability = URL(string: "https://reserve-prime.apple.com/CN/zh_CN/reserve/iPhone/availability.json")!
 }
