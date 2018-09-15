@@ -17,7 +17,7 @@ class MainViewController: NSViewController {
     @IBOutlet weak var fireButton: NSButton!
     @IBOutlet weak var indicator: NSProgressIndicator!
 
-    fileprivate var products: [Product]?
+    fileprivate lazy var products: [IPhonexsProduct] = []
     fileprivate var stores: [Store]?
     fileprivate var availabilities: [Availability]? {
         didSet {
@@ -51,7 +51,7 @@ class MainViewController: NSViewController {
 
     // MARK: Load method
     func loadProducts() {
-        guard let fileURL = Bundle.main.url(forResource: "Products", withExtension: "json") else {
+        guard let fileURL = Bundle.main.url(forResource: "iPhone-xs", withExtension: "json") else {
             return
         }
         do {
@@ -59,7 +59,32 @@ class MainViewController: NSViewController {
             guard let json = try JSONSerialization.jsonObject(with: fileData, options: .mutableContainers) as? [String: Any] else {
                 return
             }
-            self.products = (json["products"] as? [[String: Any]])?.flatMap({ Product(json: $0) })
+            let productTree = json["productTree"] as! [String : Any]
+            let root = productTree["root"] as! [String : [String : Any]]
+            root.forEach { (root_dict) in
+                let screen_size_dict = root_dict.value
+                let screenname = root_dict.key
+                screen_size_dict.forEach({ (screen_dict) in
+                    let colorname = screen_dict.key
+                    if colorname == "_images" {
+                        return
+                    }
+                    let colordict = screen_dict.value as? [String : Any]
+                    colordict?.forEach({ (capacity_dict) in
+                        let capacity = capacity_dict.key
+                        let productdict = capacity_dict.value as! [String : Any]
+                        guard let partNumber = productdict["partNumber"] as? String else { return }
+                        guard let price = productdict["price"] as? String else { return }
+                       
+                        let product = IPhonexsProduct(partNumber: partNumber, color: colorname, capacity: capacity, screenSize: screenname, price: price)
+                        self.products.append(product)
+                    })
+                    
+                })
+            }
+           
+            
+//            self.products = (json["products"] as? [[String: Any]])?.flatMap({ Product(json: $0) })
         } catch {
             NSAlert(error: error).runModal()
         }
@@ -147,7 +172,7 @@ extension MainViewController: NSTableViewDataSource, NSTableViewDelegate {
         } else if tableView == self.availabilityTableView {
             guard let identifier = tableColumn?.identifier.rawValue,
                 let availability = self.availabilities?[row],
-                let product = self.products?.first(where: { $0.partNumber == availability.partNumber }) else {
+                let product = self.products.first(where: { $0.partNumber == availability.partNumber }) else {
                 return nil
             }
             switch identifier {
