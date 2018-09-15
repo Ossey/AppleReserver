@@ -16,7 +16,22 @@ struct IPhonexsProduct {
     let price: String
     var description: String? {
         get {
-            return "型号:" + self.partNumber + "容量:" + self.capacity + "颜色:" + self.color + "屏幕:" + self.screenSize
+            var des = "iPhone XS"
+            if screenSize == "6_5inch" {
+                 des += " Max"
+            }
+            switch self.color {
+            case "silver":
+                des += " 银色"
+            case "space_gray":
+                des += " 深空灰色"
+            case "gold":
+                des += " 深空灰色"
+            default: break
+                
+            }
+           des += " \(capacity)"
+            return des
         }
     }
     

@@ -82,9 +82,6 @@ class MainViewController: NSViewController {
                     
                 })
             }
-           
-            
-//            self.products = (json["products"] as? [[String: Any]])?.flatMap({ Product(json: $0) })
         } catch {
             NSAlert(error: error).runModal()
         }
