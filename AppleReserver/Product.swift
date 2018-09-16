@@ -26,11 +26,11 @@ struct IPhonexsProduct {
             case "space_gray":
                 des += " 深空灰色"
             case "gold":
-                des += " 深空灰色"
+                des += " 金色"
             default: break
                 
             }
-           des += " \(capacity)"
+           des += " \(capacity.uppercased())"
             return des
         }
     }
